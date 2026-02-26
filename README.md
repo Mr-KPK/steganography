@@ -21,6 +21,7 @@ Message encoded successfully
 
 
 *Decoding Flow*
+
 User chooses 2
         ↓
 Open encoded image
